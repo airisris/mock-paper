@@ -1,0 +1,30 @@
+body {
+    color: #333333;
+}
+h1,
+h2,
+h3 {
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+#intro {
+    background-color: #0051c9 ;
+    color: white;
+}
+.button {
+    background-color: #ff5722;
+    color: white;
+}
+.button:hover {
+    background-color: #e64a19;
+}
+#what-i-do i {
+    color: #00bcd4;
+}
+#portfolio {
+    background-color: #f5f5f5;
+}
+#footer {
+    background-color: #333333;
+    color: white;
+}
